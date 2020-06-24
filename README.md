@@ -20,10 +20,27 @@ Contents
   - Clustering
 - Build node features for graph or node classificatioin
   - Degree
-  
+
+Datasets
+=============
+
+- UCSD Anomaly Detection Dataset
+
+http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm
+
+- Graph dataset
+
+https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets
+
+https://github.com/bknyaz/graph_nn
+
 References
 =============
 
 - NetworkX Library
 
 https://networkx.github.io/documentation/stable/index.html
+
+- Graph data processing
+
+https://github.com/bknyaz/graph_nn
