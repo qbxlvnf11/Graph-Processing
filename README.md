@@ -18,7 +18,9 @@ Contents
   - Graph operation
   - Searching Shortest Path
   - Clustering
-
+- Build node features for graph or node classificatioin
+  - Degree
+  
 References
 =============
 
