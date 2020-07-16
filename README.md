@@ -1,15 +1,18 @@
 
 
-### - Graph processing methods
-### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
+description
+=============
 
+### - Graph processing methods
+
+### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 Contents
 =============
 
 ### - NetworkX
   - Graph Visualization
-  - Graph operation
+  - Graph Operation
   - Searching Shortest Path
   - Clustering
 ### - Building node features for graph or node classificatioin
