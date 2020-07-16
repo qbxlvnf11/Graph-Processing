@@ -5,7 +5,7 @@ Description
 
 #### - Graph processing methods
 
-#### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
+#### - Upload code as a Jupiter Notebook file (.ipynb) for intuitive understanding
 
 Contents
 =============
