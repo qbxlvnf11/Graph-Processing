@@ -7,12 +7,12 @@
 Contents
 =============
 
-- NetworkX
+###- NetworkX
   - Graph Visualization
   - Graph operation
   - Searching Shortest Path
   - Clustering
-- Build node features for graph or node classificatioin
+###- Build node features for graph or node classificatioin
   - Degree
 
 Datasets
