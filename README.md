@@ -4,7 +4,9 @@ Description
 =============
 
 #### - Graph processing methods
-
+  - NetworkX: a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
+  - Building node features for graph or node classificatioin: in graph classification problem, what kind of node features use is influential for classification performance
+  - Graph subsampling: removing node or edge randomly to subsampling and augmentation of graph dataset 
 #### - Upload code as a Jupiter Notebook file (.ipynb) for intuitive understanding
 
 Contents
@@ -17,7 +19,10 @@ Contents
   - Clustering
 #### - Building node features for graph or node classificatioin
   - Degree
-
+#### - Graph subsampling
+  - random node removal
+  - random edge removal
+  
 Datasets
 =============
 
