@@ -1,7 +1,7 @@
 
 
-- Graph processing methods
-- Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
+### - Graph processing methods
+### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
 Contents
@@ -12,7 +12,7 @@ Contents
   - Graph operation
   - Searching Shortest Path
   - Clustering
-### - Build node features for graph or node classificatioin
+### - Building node features for graph or node classificatioin
   - Degree
 
 Datasets
@@ -35,7 +35,7 @@ References
 
 https://networkx.github.io/documentation/stable/index.html
 
-### - Graph data processing
+### - Graph classification data processing
 
 https://github.com/bknyaz/graph_nn
 
