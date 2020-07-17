@@ -54,4 +54,4 @@ Contact
 
 #### - Blog URL: https://blog.naver.com/qbxlvnf11
 
-#### - Email: qbxlvnf11@google.com
+#### - Email: qbxlvnf11@google.com, qbxlvnf11@naver.com
