@@ -7,7 +7,7 @@ Description
   - NetworkX: a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
   - Building node features for graph or node classificatioin: in graph classification problem, what kind of node features use is influential for classification performance
   - Graph subsampling: removing node or edge randomly to subsampling and augmentation of graph dataset
-  - Node2Vec: 
+  - Random walks of grpah nodes: method of generating random walks of graph nodes using in Node2Vec
   
 #### - Upload code as the Jupiter Notebook file (.ipynb) for intuitive understanding
 
@@ -24,7 +24,8 @@ Contents
 #### - Graph subsampling
   - random node removal
   - random edge removal
-#### - Node2Vec
+#### - Random walks of graph nodes
+  - Node2Vec
   
 Datasets
 =============
