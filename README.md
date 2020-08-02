@@ -51,6 +51,10 @@ https://networkx.github.io/documentation/stable/index.html
 
 https://github.com/bknyaz/graph_nn
 
+#### - Random walks of graph nodes
+
+https://github.com/eliorc/node2vec
+
 Author
 =============
 
